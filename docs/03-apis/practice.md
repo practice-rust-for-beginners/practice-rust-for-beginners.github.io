@@ -1,4 +1,4 @@
-# Track 3 — APIs: Practice
+﻿# Track 3 — APIs: Practice
 
 Build, consume, and document real APIs. Each exercise reinforces a concept from the Learn section.
 
@@ -102,5 +102,5 @@ Write a `main.rs` that uses the client to create 3 books, list them, then delete
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

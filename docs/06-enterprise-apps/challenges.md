@@ -1,4 +1,4 @@
-# Track 6 — Enterprise Apps: Challenges
+﻿# Track 6 — Enterprise Apps: Challenges
 
 These are capstone challenges. Each one requires skills from multiple tracks. They are the kind of projects you would put in a portfolio.
 
@@ -87,5 +87,5 @@ Build a complete code quality service combining all tracks:
 
 ---
 
-[Back to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button }
-[Back to the beginning :fontawesome-solid-house:](../index.md){ .md-button .md-button--primary }
+[Back to Practice](practice.md){ .md-button }
+[Back to the beginning](../index.md){ .md-button .md-button--primary }

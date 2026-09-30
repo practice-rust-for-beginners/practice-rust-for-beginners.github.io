@@ -1,4 +1,4 @@
----
+﻿---
 hide:
   - navigation
   - toc
@@ -12,8 +12,8 @@ hide:
 
 A structured **6-track programme** that takes you from your first `fn main()` to building enterprise-grade, cloud-native, AI-powered applications — all in Rust.
 
-[Start with Fundamentals :fontawesome-solid-rocket:](01-fundamentals/learn.md){ .md-button .md-button--primary }
-[View all tracks :fontawesome-solid-list:](#programme-tracks){ .md-button }
+[Start with Fundamentals](01-fundamentals/learn.md){ .md-button .md-button--primary }
+[View all tracks](#programme-tracks){ .md-button }
 
 </div>
 
@@ -125,6 +125,6 @@ Harder, open-ended problems that require combining multiple concepts. No hand-ho
 
 Ready? Track 1 is waiting.
 
-[Begin Track 1 — Fundamentals :fontawesome-solid-arrow-right:](01-fundamentals/learn.md){ .md-button .md-button--primary }
+[Begin Track 1 — Fundamentals](01-fundamentals/learn.md){ .md-button .md-button--primary }
 
 </div>

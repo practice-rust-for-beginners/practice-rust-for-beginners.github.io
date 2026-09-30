@@ -1,4 +1,4 @@
-# Track 5 — AI: Learn
+﻿# Track 5 — AI: Learn
 
 Track 5 explores the intersection of Rust and artificial intelligence: calling large language model APIs, running on-device inference, building embedding pipelines, and integrating with vector databases — all from high-performance Rust code.
 
@@ -32,7 +32,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 .content("Explain Rust ownership in one paragraph.")
                 .build()?
                 .into(),
-        ])
+])
         .build()?;
 
     let response = client.chat().create(request).await?;
@@ -281,5 +281,5 @@ async fn rag_answer(
 
 ## What's Next?
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

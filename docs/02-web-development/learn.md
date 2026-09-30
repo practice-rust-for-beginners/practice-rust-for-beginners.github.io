@@ -1,4 +1,4 @@
-# Track 2 — Web Development: Learn
+﻿# Track 2 — Web Development: Learn
 
 In Track 1 you mastered Rust's core language. Now you'll use that foundation to build real HTTP servers and web applications. Rust's async story — powered by **Tokio** — combined with the ergonomic **Axum** framework makes it one of the fastest and safest ways to write web services.
 
@@ -338,5 +338,5 @@ async fn handle_socket(mut socket: WebSocket) {
 
 ## What's Next?
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

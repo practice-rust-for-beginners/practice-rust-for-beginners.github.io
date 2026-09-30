@@ -1,4 +1,4 @@
-# Track 2 — Web Development: Challenges
+﻿# Track 2 — Web Development: Challenges
 
 Five open-ended challenges that require you to combine async Rust, Axum, routing, state management, and templating.
 
@@ -71,5 +71,5 @@ Use `std::fs` for directory scanning and Askama for the HTML listing template.
 
 ---
 
-[Back to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button }
-[Next Track: APIs :fontawesome-solid-arrow-right:](../03-apis/learn.md){ .md-button .md-button--primary }
+[Back to Practice](practice.md){ .md-button }
+[Next Track: APIs](../03-apis/learn.md){ .md-button .md-button--primary }

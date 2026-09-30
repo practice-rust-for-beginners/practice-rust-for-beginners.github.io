@@ -1,4 +1,4 @@
-# Track 1 — Fundamentals: Practice
+﻿# Track 1 — Fundamentals: Practice
 
 Work through these exercises in order. Each one targets a specific concept from the Learn section. Every exercise gives you a starting point — your job is to make it compile and produce the stated output.
 
@@ -383,5 +383,5 @@ src/
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

@@ -1,4 +1,4 @@
-# Track 5 — AI: Practice
+﻿# Track 5 — AI: Practice
 
 ---
 
@@ -71,5 +71,5 @@ Build a terminal chatbot that:
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

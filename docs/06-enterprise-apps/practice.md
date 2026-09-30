@@ -1,4 +1,4 @@
-# Track 6 — Enterprise Apps: Practice
+﻿# Track 6 — Enterprise Apps: Practice
 
 ---
 
@@ -90,5 +90,5 @@ Compile a Rust library to WASM:
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

@@ -1,4 +1,4 @@
-# Track 6 — Enterprise Apps: Learn
+﻿# Track 6 — Enterprise Apps: Learn
 
 Track 6 is the capstone track. You'll combine everything from the previous tracks and add the patterns used in large-scale production systems: persistent databases, distributed messaging, structured observability, authentication, and WebAssembly compilation.
 
@@ -354,5 +354,5 @@ cargo bench --bench my_bench
 
 You've completed all 6 tracks. You now have everything you need to build production Rust applications at scale.
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

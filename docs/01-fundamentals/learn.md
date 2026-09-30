@@ -1,4 +1,4 @@
-# Track 1 — Fundamentals: Learn
+﻿# Track 1 — Fundamentals: Learn
 
 Welcome to Track 1. This is where your Rust journey begins. By the end of this track you will have a solid mental model of the features that make Rust unique: the ownership system, the type system, and the expressive pattern matching — the foundation everything else is built on.
 
@@ -324,7 +324,7 @@ fn main() {
         Shape::Circle(3.0),
         Shape::Rectangle(4.0, 5.0),
         Shape::Triangle { base: 6.0, height: 8.0 },
-    ];
+];
     for s in &shapes {
         println!("{s:?} → area = {:.2}", area(s));
     }
@@ -488,5 +488,5 @@ fn main() {
 
 You now have the complete Rust fundamentals toolkit. Consolidate these concepts in the **Practice** section, then test yourself with **Challenges**.
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

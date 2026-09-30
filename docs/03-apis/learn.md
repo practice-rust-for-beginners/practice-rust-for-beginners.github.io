@@ -1,4 +1,4 @@
-# Track 3 — APIs: Learn
+﻿# Track 3 — APIs: Learn
 
 Track 3 takes you from web server basics to the full API development lifecycle: designing and documenting REST endpoints, serialising complex data, consuming third-party APIs from Rust, and building GraphQL services.
 
@@ -341,5 +341,5 @@ fn verify_token(token: &str, secret: &[u8]) -> Result<Claims, jsonwebtoken::erro
 
 ## What's Next?
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

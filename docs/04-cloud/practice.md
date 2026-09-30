@@ -1,4 +1,4 @@
-# Track 4 — Cloud: Practice
+﻿# Track 4 — Cloud: Practice
 
 ---
 
@@ -79,5 +79,5 @@ Validate the YAML with `kubectl apply --dry-run=client -f k8s/`.
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

@@ -1,4 +1,4 @@
-# Track 4 — Cloud: Challenges
+﻿# Track 4 — Cloud: Challenges
 
 ---
 
@@ -68,5 +68,5 @@ The pipeline must cache `~/.cargo/registry` and `target/` between runs.
 
 ---
 
-[Back to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button }
-[Next Track: AI :fontawesome-solid-arrow-right:](../05-ai/learn.md){ .md-button .md-button--primary }
+[Back to Practice](practice.md){ .md-button }
+[Next Track: AI](../05-ai/learn.md){ .md-button .md-button--primary }

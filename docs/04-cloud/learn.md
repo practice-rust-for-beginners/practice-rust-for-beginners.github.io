@@ -1,4 +1,4 @@
-# Track 4 — Cloud: Learn
+﻿# Track 4 — Cloud: Learn
 
 Track 4 covers packaging Rust applications as containers, deploying them to Kubernetes and serverless platforms, and managing configuration and secrets in cloud environments.
 
@@ -295,5 +295,5 @@ Extend the CI workflow to build and push a Docker image on every merge to `main`
 
 ## What's Next?
 
-[Go to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button .md-button--primary }
-[Jump to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button }
+[Go to Practice](practice.md){ .md-button .md-button--primary }
+[Jump to Challenges](challenges.md){ .md-button }

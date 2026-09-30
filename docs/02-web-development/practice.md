@@ -1,4 +1,4 @@
-# Track 2 — Web Development: Practice
+﻿# Track 2 — Web Development: Practice
 
 Exercises to build up your Axum skills hands-on. Each exercise is a standalone `cargo` project.
 
@@ -160,5 +160,5 @@ websocat ws://localhost:3000/ws
 
 ---
 
-[Go to Challenges :fontawesome-solid-trophy:](challenges.md){ .md-button .md-button--primary }
-[Back to Learn :fontawesome-solid-book-open:](learn.md){ .md-button }
+[Go to Challenges](challenges.md){ .md-button .md-button--primary }
+[Back to Learn](learn.md){ .md-button }

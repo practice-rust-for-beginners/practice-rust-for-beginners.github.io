@@ -1,4 +1,4 @@
-# Track 1 — Fundamentals: Challenges
+﻿# Track 1 — Fundamentals: Challenges
 
 These challenges are intentionally open-ended. There is no single correct solution. The goal is to combine multiple concepts from the Learn section into a working program.
 
@@ -116,7 +116,7 @@ cargo run -- remove 2
 
 **`todos.txt` format** (you design it):
 ```text
-1 [ ] Buy milk
+1 [] Buy milk
 2 [x] Write Rust code
 ```
 
@@ -132,5 +132,5 @@ Requirements:
 
 ---
 
-[Back to Practice :fontawesome-solid-dumbbell:](practice.md){ .md-button }
-[Next Track: Web Development :fontawesome-solid-arrow-right:](../02-web-development/learn.md){ .md-button .md-button--primary }
+[Back to Practice](practice.md){ .md-button }
+[Next Track: Web Development](../02-web-development/learn.md){ .md-button .md-button--primary }
