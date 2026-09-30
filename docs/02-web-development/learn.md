@@ -240,7 +240,7 @@ askama      = "0.12"
 askama_axum = "0.4"
 ```
 
-```
+```html
 <!-- templates/index.html -->
 <!DOCTYPE html>
 <html>

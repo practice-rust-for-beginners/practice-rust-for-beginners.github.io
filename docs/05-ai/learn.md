@@ -246,7 +246,7 @@ let result: serde_json::Value = reqwest_client
 
 Retrieval-Augmented Generation (RAG) combines vector search with LLM generation:
 
-```
+```text
 User question
     ↓
 Embed question (BERT/OpenAI embeddings)

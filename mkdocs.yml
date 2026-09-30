@@ -9,7 +9,6 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  custom_dir: docs/overrides
   logo: assets/rust-gear.svg
   favicon: assets/rust-gear.svg
   font:
@@ -35,10 +34,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - navigation.path
     - navigation.top
     - navigation.footer
-    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
@@ -53,7 +50,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/practice-rust-for-beginners
-    - icon: fontawesome/brands/rust
+    - icon: material/language-rust
       link: https://www.rust-lang.org/
   generator: false
 

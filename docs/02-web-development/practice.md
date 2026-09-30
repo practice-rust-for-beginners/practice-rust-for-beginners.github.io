@@ -65,7 +65,7 @@ curl "http://localhost:3000/greet/ferris?loud=true" # HELLO, FERRIS!
 
 Build a simple in-memory `users` resource. Use `Arc<RwLock<Vec<User>>>` as state.
 
-```
+```text
 POST   /users           — create, returns 201 + JSON body
 GET    /users           — list all
 GET    /users/:id       — get one (404 if not found)

@@ -25,7 +25,7 @@ fn main() {
 ```
 
 **Expected output:**
-```
+```text
 x = 20
 ```
 
@@ -55,7 +55,7 @@ fn main() {
 ```
 
 **Expected output:**
-```
+```text
 84
 9
 ```
@@ -87,7 +87,7 @@ Write a function `fizzbuzz(n: u32) -> String` that returns:
 Print the result for 1 through 20.
 
 **Expected output (excerpt):**
-```
+```text
 1
 2
 Fizz
@@ -165,7 +165,7 @@ fn main() {
 ```
 
 **Expected output:**
-```
+```text
 4
 Hello, Rust World!
 ```
@@ -239,7 +239,7 @@ fn main() {
 ```
 
 **Expected output:**
-```
+```text
 Moving to (10, 25)
 Writing: hello
 Changing colour to rgb(255, 128, 0)
@@ -341,7 +341,7 @@ fn main() {
 ```
 
 **Expected output:**
-```
+```text
 ["B", "A", "D", "C", "A", "C", "B"]
 ```
 
@@ -373,7 +373,7 @@ fn main() {
 **Goal:** Organise the `BankAccount` from Exercise 6 into its own module.
 
 Create a project with:
-```
+```text
 src/
   main.rs
   bank.rs   ← put BankAccount here

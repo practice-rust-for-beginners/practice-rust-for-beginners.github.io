@@ -39,13 +39,13 @@ Write a program that:
 3. Prints the top 10 most frequent words in descending order of frequency.
 
 **Example input:**
-```
+```text
 the quick brown fox jumps over the lazy dog
 the dog barked at the fox
 ```
 
 **Example output:**
-```
+```text
 the   : 5
 fox   : 2
 dog   : 2
@@ -65,7 +65,7 @@ brown : 1
 
 Implement a singly-linked list using Rust's ownership model:
 
-```
+```text
 List: 1 → 2 → 3 → Nil
 ```
 
@@ -89,7 +89,7 @@ Design a system for computing properties of 2D shapes:
 4. Print a summary table for a mixed collection of shapes.
 
 **Example output:**
-```
+```text
 Shape       | Area     | Perimeter
 ------------|----------|----------
 Circle r=5  | 78.54    | 31.42
@@ -115,7 +115,7 @@ cargo run -- remove 2
 ```
 
 **`todos.txt` format** (you design it):
-```
+```text
 1 [ ] Buy milk
 2 [x] Write Rust code
 ```
