@@ -1,0 +1,131 @@
+/* ============================================================
+   Practice Rust for Beginners — custom styles
+   Rust brand primary: #CE422B  light: #e8604a  dark: #a83420
+   ============================================================ */
+
+/* --- Brand colour overrides -------------------------------- */
+:root {
+  --md-primary-fg-color:        #CE422B;
+  --md-primary-fg-color--light: #e8604a;
+  --md-primary-fg-color--dark:  #a83420;
+  --md-accent-fg-color:         #f7741e;
+
+  --rust-orange:   #CE422B;
+  --rust-orange-l: #f7741e;
+  --rust-dark:     #1a1a1a;
+  --rust-surface:  #2a2a2a;
+}
+
+/* --- Hero section ------------------------------------------ */
+.hero-section {
+  padding: 4rem 1.5rem 3rem;
+  text-align: center;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  margin-bottom: 2rem;
+}
+
+.hero-content h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 1.2rem;
+  color: var(--md-default-fg-color);
+}
+
+.hero-sub {
+  display: block;
+  color: var(--rust-orange);
+  font-size: 0.9em;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.hero-content > p {
+  font-size: 1.1rem;
+  max-width: 640px;
+  margin: 0 auto 2rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.7;
+}
+
+/* --- Track cards ------------------------------------------- */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border-top: 3px solid var(--rust-orange);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(206, 66, 43, 0.18);
+}
+
+/* --- Phase cards (Learn / Practice / Challenge) ------------ */
+.phase-card {
+  padding: 1.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  border-top: 3px solid var(--rust-orange);
+}
+
+.phase-card h3 {
+  margin-top: 0;
+  color: var(--rust-orange);
+}
+
+/* --- CTA footer -------------------------------------------- */
+.cta-footer {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: var(--md-code-bg-color);
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+.cta-footer > p {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  color: var(--md-default-fg-color);
+}
+
+/* --- Primary button colour --------------------------------- */
+.md-typeset .md-button--primary {
+  background-color: var(--rust-orange) !important;
+  border-color:     var(--rust-orange) !important;
+  color: #fff !important;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: var(--md-primary-fg-color--dark) !important;
+  border-color:     var(--md-primary-fg-color--dark) !important;
+}
+
+/* --- Code block tweaks ------------------------------------- */
+.md-typeset code {
+  border-radius: 3px;
+}
+
+/* --- Navigation active colour ------------------------------ */
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--rust-orange);
+}
+
+/* --- Admonition accent ------------------------------------- */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--rust-orange);
+}
+
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(206, 66, 43, 0.12);
+}
+
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+  background-color: var(--rust-orange);
+}

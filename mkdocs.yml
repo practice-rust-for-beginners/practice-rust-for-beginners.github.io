@@ -1,0 +1,128 @@
+site_name: Practice Rust for Beginners
+site_url: https://practice-rust-for-beginners.github.io/
+site_description: Learn Rust — From Zero to Production. A structured 6-track programme covering Fundamentals through Enterprise Apps.
+site_author: Practice Rust for Beginners
+
+repo_name: practice-rust-for-beginners/practice-rust-for-beginners.github.io
+repo_url: https://github.com/practice-rust-for-beginners/practice-rust-for-beginners.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/rust-gear.svg
+  favicon: assets/rust-gear.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep-orange
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep-orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/practice-rust-for-beginners
+    - icon: fontawesome/brands/rust
+      link: https://www.rust-lang.org/
+  generator: false
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+  - tables
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - "🦀 Fundamentals":
+    - Learn: 01-fundamentals/learn.md
+    - Practice: 01-fundamentals/practice.md
+    - Challenges: 01-fundamentals/challenges.md
+  - "🌐 Web Development":
+    - Learn: 02-web-development/learn.md
+    - Practice: 02-web-development/practice.md
+    - Challenges: 02-web-development/challenges.md
+  - "🔌 APIs":
+    - Learn: 03-apis/learn.md
+    - Practice: 03-apis/practice.md
+    - Challenges: 03-apis/challenges.md
+  - "☁️ Cloud":
+    - Learn: 04-cloud/learn.md
+    - Practice: 04-cloud/practice.md
+    - Challenges: 04-cloud/challenges.md
+  - "🤖 AI":
+    - Learn: 05-ai/learn.md
+    - Practice: 05-ai/practice.md
+    - Challenges: 05-ai/challenges.md
+  - "🏢 Enterprise Apps":
+    - Learn: 06-enterprise-apps/learn.md
+    - Practice: 06-enterprise-apps/practice.md
+    - Challenges: 06-enterprise-apps/challenges.md

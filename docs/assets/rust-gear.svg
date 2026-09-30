@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Rust gear logo">
+  <!-- Official Rust gear logo SVG, colour overridden to #CE422B via CSS -->
+  <path fill="#CE422B" d="M71.9 4.3L66 16.5c-.4.8-1.2 1.4-2.1 1.5l-13.5 1.9c-2.3.3-3.2 3.1-1.5 4.7l9.7 9.5c.7.6 1 1.6.8 2.5l-2.3 13.4c-.4 2.2 2 3.9 4 2.9l12.1-6.3c.8-.4 1.8-.4 2.6 0l12.1 6.3c2 1 4.4-.7 4-2.9l-2.3-13.4c-.2-.9.1-1.9.8-2.5l9.7-9.5c1.6-1.6.8-4.4-1.5-4.7L85 18c-.9-.1-1.7-.7-2.1-1.5L77 4.3c-1-2.1-3.9-2.1-5 0z"/>
+  <circle fill="none" stroke="#CE422B" stroke-width="8" cx="72" cy="72" r="56"/>
+  <g fill="#CE422B">
+    <!-- Gear teeth (12 teeth) -->
+    <rect x="68" y="8" width="8" height="14" rx="2"/>
+    <rect x="68" y="122" width="8" height="14" rx="2"/>
+    <rect x="8" y="68" width="14" height="8" rx="2"/>
+    <rect x="122" y="68" width="14" height="8" rx="2"/>
+    <rect x="28.5" y="21.5" width="8" height="14" rx="2" transform="rotate(45 32.5 28.5)"/>
+    <rect x="107.5" y="108.5" width="8" height="14" rx="2" transform="rotate(45 111.5 115.5)"/>
+    <rect x="21.5" y="100.5" width="8" height="14" rx="2" transform="rotate(-45 25.5 107.5)"/>
+    <rect x="108.5" y="22.5" width="8" height="14" rx="2" transform="rotate(-45 112.5 29.5)"/>
+  </g>
+  <!-- Inner circle -->
+  <circle fill="#CE422B" cx="72" cy="72" r="20"/>
+  <circle fill="white" cx="72" cy="72" r="12"/>
+</svg>
