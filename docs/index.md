@@ -78,6 +78,32 @@ A structured **6-track programme** that takes you from your first `fn main()` to
 
 ---
 
+## 🚀 Capstone Projects
+
+Build real applications from scratch. Each project has a full step-by-step guide with code.
+
+<div class="grid cards" markdown>
+
+-   **18 real-world projects**
+
+    ---
+
+    From a CLI calculator to a microservice mesh — one project per concept level, across all 6 tracks.
+
+    [:octicons-arrow-right-24: Browse all projects](projects/index.md)
+
+-   **Three difficulty levels**
+
+    ---
+
+    🟢 Beginner · 🟡 Intermediate · 🔴 Advanced — start anywhere and work up.
+
+    [:octicons-arrow-right-24: Start with Fundamentals](projects/01-fundamentals/cli-calculator.md)
+
+</div>
+
+---
+
 ## How It Works
 
 Each track follows the same three-phase loop:

@@ -123,3 +123,29 @@ nav:
     - Learn: 06-enterprise-apps/learn.md
     - Practice: 06-enterprise-apps/practice.md
     - Challenges: 06-enterprise-apps/challenges.md
+  - "🚀 Projects":
+    - All Projects: projects/index.md
+    - "Fundamentals Projects":
+      - CLI Calculator: projects/01-fundamentals/cli-calculator.md
+      - Text Adventure Game: projects/01-fundamentals/text-adventure.md
+      - File Organiser: projects/01-fundamentals/file-organiser.md
+    - "Web Dev Projects":
+      - Personal Blog Engine: projects/02-web-development/blog-engine.md
+      - Link Shortener: projects/02-web-development/link-shortener.md
+      - Real-time Chat App: projects/02-web-development/realtime-chat.md
+    - "API Projects":
+      - Recipe API: projects/03-apis/recipe-api.md
+      - GitHub Dashboard: projects/03-apis/github-dashboard.md
+      - Notification Service: projects/03-apis/notification-service.md
+    - "Cloud Projects":
+      - Containerised Microservice: projects/04-cloud/containerised-microservice.md
+      - Serverless URL Shortener: projects/04-cloud/serverless-url-shortener.md
+      - CI/CD Pipeline: projects/04-cloud/cicd-pipeline.md
+    - "AI Projects":
+      - CLI Chatbot: projects/05-ai/cli-chatbot.md
+      - Document Q&A: projects/05-ai/document-qa.md
+      - Code Review Bot: projects/05-ai/code-review-bot.md
+    - "Enterprise Projects":
+      - E-commerce API: projects/06-enterprise-apps/ecommerce-api.md
+      - Event-driven Analytics: projects/06-enterprise-apps/event-driven-analytics.md
+      - Microservice Mesh: projects/06-enterprise-apps/microservice-mesh.md
