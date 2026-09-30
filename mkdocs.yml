@@ -1,16 +1,13 @@
-site_name: Practice Rust for Beginners
+﻿site_name: Practice Rust for Beginners
 site_url: https://practice-rust-for-beginners.github.io/
 site_description: Learn Rust — From Zero to Production. A structured 6-track programme covering Fundamentals through Enterprise Apps.
 site_author: Practice Rust for Beginners
-
-repo_name: practice-rust-for-beginners/practice-rust-for-beginners.github.io
-repo_url: https://github.com/practice-rust-for-beginners/practice-rust-for-beginners.github.io
-edit_uri: edit/main/docs/
+copyright: 'Managed by <a href="https://linkedin.com/in/adityabhuyan3" target="_blank">Aditya Pratap Bhuyan</a>'
 
 theme:
   name: material
   logo: assets/rust-gear.svg
-  favicon: assets/rust-gear.svg
+  favicon: assets/favicon.svg
   font:
     text: Inter
     code: JetBrains Mono
@@ -52,6 +49,8 @@ extra:
       link: https://github.com/practice-rust-for-beginners
     - icon: material/language-rust
       link: https://www.rust-lang.org/
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/adityabhuyan3
   generator: false
 
 plugins:

@@ -129,3 +129,9 @@
 .md-typeset .tip > summary::before {
   background-color: var(--rust-orange);
 }
+
+/* --- Footer copyright link --------------------------------- */
+.md-footer-meta .md-footer-copyright a {
+  color: var(--md-accent-fg-color);
+  text-decoration: underline;
+}
