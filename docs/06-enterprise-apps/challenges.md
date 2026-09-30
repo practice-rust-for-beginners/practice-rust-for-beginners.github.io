@@ -88,4 +88,5 @@ Build a complete code quality service combining all tracks:
 ---
 
 [Back to Practice](practice.md){ .md-button }
+
 [Back to the beginning](../index.md){ .md-button .md-button--primary }

@@ -80,4 +80,5 @@ Validate the YAML with `kubectl apply --dry-run=client -f k8s/`.
 ---
 
 [Go to Challenges](challenges.md){ .md-button .md-button--primary }
+
 [Back to Learn](learn.md){ .md-button }

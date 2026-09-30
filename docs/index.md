@@ -13,6 +13,7 @@ hide:
 A structured **6-track programme** that takes you from your first `fn main()` to building enterprise-grade, cloud-native, AI-powered applications — all in Rust.
 
 [Start with Fundamentals](01-fundamentals/learn.md){ .md-button .md-button--primary }
+
 [View all tracks](#programme-tracks){ .md-button }
 
 </div>

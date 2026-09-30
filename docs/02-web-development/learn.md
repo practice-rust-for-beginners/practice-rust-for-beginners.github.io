@@ -339,4 +339,5 @@ async fn handle_socket(mut socket: WebSocket) {
 ## What's Next?
 
 [Go to Practice](practice.md){ .md-button .md-button--primary }
+
 [Jump to Challenges](challenges.md){ .md-button }

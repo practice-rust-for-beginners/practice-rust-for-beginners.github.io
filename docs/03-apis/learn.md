@@ -342,4 +342,5 @@ fn verify_token(token: &str, secret: &[u8]) -> Result<Claims, jsonwebtoken::erro
 ## What's Next?
 
 [Go to Practice](practice.md){ .md-button .md-button--primary }
+
 [Jump to Challenges](challenges.md){ .md-button }

@@ -489,4 +489,5 @@ fn main() {
 You now have the complete Rust fundamentals toolkit. Consolidate these concepts in the **Practice** section, then test yourself with **Challenges**.
 
 [Go to Practice](practice.md){ .md-button .md-button--primary }
+
 [Jump to Challenges](challenges.md){ .md-button }

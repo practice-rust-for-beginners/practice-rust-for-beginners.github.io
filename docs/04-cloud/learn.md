@@ -296,4 +296,5 @@ Extend the CI workflow to build and push a Docker image on every merge to `main`
 ## What's Next?
 
 [Go to Practice](practice.md){ .md-button .md-button--primary }
+
 [Jump to Challenges](challenges.md){ .md-button }

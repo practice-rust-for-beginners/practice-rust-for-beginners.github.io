@@ -355,4 +355,5 @@ cargo bench --bench my_bench
 You've completed all 6 tracks. You now have everything you need to build production Rust applications at scale.
 
 [Go to Practice](practice.md){ .md-button .md-button--primary }
+
 [Jump to Challenges](challenges.md){ .md-button }
